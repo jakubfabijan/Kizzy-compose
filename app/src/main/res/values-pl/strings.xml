@@ -63,7 +63,7 @@
     <string name="enable_appsRpc">Włącz Detekcję Aplikacji</string>
     <string name="usage_access">Wymagany Dostęp do Informacji o Użyciu</string>
     <string name="usage_access_desc">Dostęp do Informacji o Użyciu jest potrzebny dla aplikacji aby wiedzieć o aktualnie uruchomionych aplikacjach</string>
-    <string name="enable_Rpc">Włącz Rpc Mediów</string>
+    <string name="enable_mediaRpc">Włącz Rpc Mediów</string>
     <string name="permission_required">Wymagane Uprawnienie</string>
     <string name="enable_customRpc">Włącz Własne Rpc</string>
     <string name="enable_nintendoRpc">Włącz Rpc Switcha</string>
