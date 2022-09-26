@@ -8,6 +8,7 @@ import com.my.kizzy.ui.theme.LightBlueIcon
 import com.my.kizzy.ui.theme.LightGreenIcon
 import com.my.kizzy.ui.theme.LightPurpleIcon
 import com.my.kizzy.ui.theme.LightRedIcon
+import androidx.compose.ui.res.stringResource
 
 data class HomeItem(
     val title: String,
