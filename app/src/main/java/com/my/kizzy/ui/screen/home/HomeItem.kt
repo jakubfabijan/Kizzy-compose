@@ -30,7 +30,7 @@ fun getHomeitems() = listOf(
         route = Routes.MEDIA_RPC,
     ),
     HomeItem(
-        title = "Custom Rpc",
+        title = stringResource(id = R.string.welcome),
         icon = R.drawable.ic_rpc_placeholder,
         iconColor = LightPurpleIcon,
         route = Routes.CUSTOM_RPC,
